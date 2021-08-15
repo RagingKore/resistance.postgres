@@ -25,7 +25,7 @@
 
     <UpdateVersionProperties>true</UpdateVersionProperties>
     <MinVerTagPrefix>v</MinVerTagPrefix>
-    <MinVerMinimumMajorMinor>1.0.1</MinVerMinimumMajorMinor>
+    <MinVerMinimumMajorMinor>1.1</MinVerMinimumMajorMinor>
   </PropertyGroup>
 
   <ItemGroup>
