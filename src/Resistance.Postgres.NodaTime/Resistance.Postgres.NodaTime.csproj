@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <PackageReference Include="Npgsql.NodaTime" Version="6.0.0-preview6" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Resistance.Postgres\Resistance.Postgres.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="Resistance.Postgres.NodaTime.csproj.DotSettings" />
+  </ItemGroup>
+
+</Project>
