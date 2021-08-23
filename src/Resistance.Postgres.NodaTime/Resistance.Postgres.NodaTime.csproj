@@ -1,7 +1,7 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <PackageReference Include="Npgsql.NodaTime" Version="6.0.0-preview6" />
+    <PackageReference Include="Npgsql.NodaTime" Version="6.0.0-preview7" />
   </ItemGroup>
 
   <ItemGroup>
